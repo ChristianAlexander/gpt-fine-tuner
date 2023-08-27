@@ -2,6 +2,10 @@
 
 A command line application for creating and managing OpenAI fine-tuning jobs.
 
+Check out a video demo here:
+
+[![Watch the video](https://img.youtube.com/vi/NzS11Lc_6js/maxresdefault.jpg)](https://youtu.be/NzS11Lc_6js)
+
 For details on fine-tuning, check out OpenAI's guide: https://platform.openai.com/docs/guides/fine-tuning
 
 > **Note**
