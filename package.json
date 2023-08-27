@@ -1,0 +1,25 @@
+{
+  "name": "gpt-fine-tuner",
+  "version": "0.1.1",
+  "description": "A command line application for creating and managing OpenAI fine-tuning jobs.",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "gpt",
+    "ai",
+    "training"
+  ],
+  "author": "Christian Alexander <christian@linux.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianalexander/gpt-fine-tuner.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@lifeomic/attempt": "^3.0.3",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.10",
+    "openai": "^4.3.0"
+  }
+}
